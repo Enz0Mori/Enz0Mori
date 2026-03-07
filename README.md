@@ -11,6 +11,7 @@
                                     /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
                                    /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                    \/__/         \/__/         \/__/     \/__/     \/__/    
+
 ## Sobre Mim
 
 - 🎓 Atualmente cursando faculdade de Análise e Desenvolvimento de Sistemas
@@ -28,15 +29,18 @@
 
 ### Linguagens
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin-right:8px;" alt="Python"/>
 
 </td>
 
 <td width="500" valign="top" style="padding:25px;">
 
-### Outros
+### Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="margin-right:8px;" alt="VSCode"/>
+<img src="https://readmecodegen.vercel.app/api/social-icon?name=github&theme=dark&size=50" width="50" height="50" style="margin-right:8px;" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" style="margin-right:8px;" alt="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" style="margin-right:8px;" alt="Arduino"/>
 
 </td>
 
