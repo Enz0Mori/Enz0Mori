@@ -12,13 +12,34 @@
                                    /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                    \/__/         \/__/         \/__/     \/__/     \/__/    
 
-## Sobre Mim
+## 🧠 Sobre Mim
 
-- 🎓 Atualmente cursando faculdade de Análise e Desenvolvimento de Sistemas
-- 🎮 Gosto de jogos, principalmente competitivos
-- 🚀 Sempre buscando evoluir e aprender coisas novas  
-- 🧠 Interessado em tecnologia e em como as coisas funcionam  
-- ⚡ Gosto de otimizar sistemas e melhorar o desempenho
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse em tecnologia no geral, principalmente em entender como as coisas funcionam na prática.
+
+Tenho buscado evoluir constantemente na área de programação, seja estudando, testando coisas novas ou criando pequenos projetos. Atualmente, na faculdade, estou aprendendo Python.
+
+Tive contato com Arduino no ensino médio, onde trabalhei com lógica de programação e linguagem baseada em C/C++, o que me ajudou a ter uma visão melhor de como software e hardware funcionam.
+
+Também tenho interesse em otimização de sistemas e gosto de explorar formas de melhorar o desempenho no uso do computador no dia a dia.
+
+---
+
+### 🎯 Objetivos
+
+* Evoluir na programação de forma consistente
+* Entender cada vez mais como os sistemas funcionam na prática
+* Aprimorar minha lógica e forma de resolver problemas
+* Aprender e buscar soluções de forma mais eficiente
+
+---
+
+### ⚡ Interesses
+
+* 💻 Programação e desenvolvimento
+* 🖥️ Otimização de sistemas
+* ⚙️ Funcionamento de hardware e software
+* 📊 Testes e análise de desempenho
+* 🚀 Evolução pessoal e aprendizado contínuo
 
 <h2>Tecnologias e Ferramentas</h2>
 
@@ -30,6 +51,7 @@
 ### Linguagens
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin-right:8px;" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="margin-right:8px;" alt="C++"/>
 
 </td>
 
