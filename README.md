@@ -61,6 +61,7 @@ Também tenho interesse em otimização de sistemas e gosto de explorar formas d
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="margin-right:8px;" alt="VSCode"/>
 <img src="https://readmecodegen.vercel.app/api/social-icon?name=github&theme=dark&size=50" width="50" height="50" style="margin-right:8px;" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin-right:8px;" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" style="margin-right:8px;" alt="Figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" style="margin-right:8px;" alt="Arduino"/>
 
