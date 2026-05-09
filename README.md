@@ -1,16 +1,16 @@
 ## Hi 👋 I'm Enzo Mori — Welcome to my GitHub
 
-                                    ___           ___           ___       ___       ___     
-                                   /\__\         /\  \         /\__\     /\__\     /\  \    
-                                  /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                                 /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                                /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                               /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                               \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                                    \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                    /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                                   /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                                   \/__/         \/__/         \/__/     \/__/     \/__/    
+                                        ___           ___           ___       ___       ___     
+                                       /\__\         /\  \         /\__\     /\__\     /\  \    
+                                      /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                                     /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                                    /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                                   /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                                   \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                        \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                        /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                       /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                       \/__/         \/__/         \/__/     \/__/     \/__/    
 
 ## 🧠 Sobre Mim
 
@@ -48,22 +48,17 @@ Também tenho interesse em otimização de sistemas e gosto de explorar formas d
 
 <td width="500" valign="top" style="padding:25px;">
 
-### Linguagens
+<b>Linguagens</b>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin-right:8px;" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="margin-right:8px;" alt="C++"/>
+[![Linguagens](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
 
 </td>
 
 <td width="500" valign="top" style="padding:25px;">
 
-### Ferramentas
+<b>Ferramentas</b>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" style="margin-right:8px;" alt="VSCode"/>
-<img src="https://readmecodegen.vercel.app/api/social-icon?name=github&theme=dark&size=50" width="50" height="50" style="margin-right:8px;" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin-right:8px;" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" style="margin-right:8px;" alt="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" style="margin-right:8px;" alt="Arduino"/>
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,github,git,figma,arduino)](https://skillicons.dev)
 
 </td>
 
